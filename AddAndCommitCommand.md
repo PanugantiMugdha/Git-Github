@@ -1,0 +1,11 @@
+# Add and Commit Command
+- # Add:
+    - Add new or changed files in your working directory to the git staging area.
+    - Command: git add filename
+    - Command for all files: git add .
+- # Commit:
+    - It is the record or change.
+    - Command: git commit -m "Message to be displayed"
+- # Push:
+    - Upload local repository content to remote repository.
+    - Command: git push origin main
